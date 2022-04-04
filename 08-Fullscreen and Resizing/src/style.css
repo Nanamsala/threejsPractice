@@ -1,0 +1,22 @@
+html,
+body
+{
+    overflow: hidden;
+}
+*{
+	margin: 0;
+	padding: 0;
+	flex-grow: 1;
+}
+.webgl{
+	position: fixed;
+	top: 0;
+	left: 0;
+	outline: none;
+	flex-grow: 1;
+}
+body{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
